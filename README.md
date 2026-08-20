@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Strivenest Technologies — SuperAdmin Portal
 
 ## 1. Overview
@@ -723,3 +724,6 @@ Employee Portal, Employee Login, Employee Portal Access, or data sync
 between SuperAdmin and the Employee Portal behave differently after this
 reorganization, it would be a packaging mistake rather than a logic change
 — none of that code was edited — so paste the exact error and I'll fix it.
+=======
+# Here are your Instructions
+>>>>>>> 3de8e117fc08455cc745afddfc692d09a26ebff4
